@@ -1,0 +1,33 @@
+    body{
+
+        background-color: pink;
+
+    }
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 20px auto;
+      }
+  
+      th, td {
+        border: 3px solid #333;
+        padding: 10px;
+        text-align: center;
+        font-size: 30px;
+      }
+  
+      th {
+        background-color: plum;
+      }
+.Astolfo img{
+
+height: 20%;
+width: 20%;
+
+}
+td:hover{
+
+background-color: rgb(255, 203, 255);
+cursor: pointer;
+
+}
